@@ -1,0 +1,4 @@
+*
+!clean
+!compile.tcl
+!run_sim
